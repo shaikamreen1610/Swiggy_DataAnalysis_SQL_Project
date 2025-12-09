@@ -104,9 +104,7 @@ Order value buckets:
 ---
 
 ## Visualization
-All analytical results and charts are organized separately for clarity.
-
-**Charts:**
+All analytical results and charts are organized separately for clarity in charts file.
 
 ---
 
@@ -121,4 +119,4 @@ This project is developed to demonstrate:
 
 ## Author
 **Amreen**  
-Data Analyst | SQL • PostgreSQL • Data Warehousing
+Data Analyst | SQL • PostgreSQL • Data Analysis
